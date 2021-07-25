@@ -4,6 +4,8 @@
 ## Data Resources
 https://apps.sentinel-hub.com/eo-browser/
 
+https://up42.com/
+
 ### High Resolution < 1m
 https://gbdxdocs.digitalglobe.com/docs/quickbird
 
@@ -17,6 +19,8 @@ http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
 ## Learning Resources
 
-https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90
+[How To Use Open Source Data For Investigations](https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90)
 
-https://techjournalism.medium.com/fact-checking-with-open-source-satellite-images-part-1-8a76962c76e5
+[How To Download Satellite Data](https://towardsdatascience.com/how-to-download-high-resolution-satellite-data-for-anywhere-on-earth-5e6dddee2803)
+
+[Fact Checking With Open Source Satellite Data](https://techjournalism.medium.com/fact-checking-with-open-source-satellite-images-part-1-8a76962c76e5)
