@@ -21,6 +21,12 @@ https://earthengine.google.com
 ### Local
 http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
+## Electrification Resources
+| Country      | Resource  |Comment| Link     |
+| :---        |    :----:   |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 ## Learning Resources
 
 [How To Use Open Source Data For Investigations](https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90)
