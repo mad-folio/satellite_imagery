@@ -23,9 +23,9 @@ http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
 ## Electrification Resources
 | Country      | Resource  |Comment| Link     |
-| :---        |    :----:   |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| :---        |    :----:   |    :----:   |---: |
+| Kenya      | Transmission Stations |    |https://datacatalog.worldbank.org/dataset/kenya-transmission-stations-0| 
+| Kenya      | Primary Substations |    |https://datacatalog.worldbank.org/dataset/kenya-primary-substations| 
 
 ## Learning Resources
 
