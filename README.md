@@ -9,8 +9,11 @@ https://gbdxdocs.digitalglobe.com/docs/quickbird
 
 
 ## Data Processing Resources
+### Platforms
 https://earthengine.google.com
 
+### Local
+http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
 ## Learning Resources
 
