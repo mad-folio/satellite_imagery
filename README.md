@@ -2,9 +2,13 @@
 
 
 ## Data Resources
+### Paid
 https://apps.sentinel-hub.com/eo-browser/
-
 https://up42.com/
+
+### Scraping
+https://github.com/Jimut123/jimutmap
+
 
 ### High Resolution < 1m
 https://gbdxdocs.digitalglobe.com/docs/quickbird
