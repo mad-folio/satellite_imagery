@@ -37,3 +37,7 @@ https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-j
 [How To Download Satellite Data](https://towardsdatascience.com/how-to-download-high-resolution-satellite-data-for-anywhere-on-earth-5e6dddee2803)
 
 [Fact Checking With Open Source Satellite Data](https://techjournalism.medium.com/fact-checking-with-open-source-satellite-images-part-1-8a76962c76e5)
+
+
+## Indsutry Applications
+https://www.dotgiscorp.com/energy/
