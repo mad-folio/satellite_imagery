@@ -4,6 +4,7 @@
 ## Data Resources
 ### Paid
 https://apps.sentinel-hub.com/eo-browser/
+
 https://up42.com/
 
 ### Scraping
@@ -20,6 +21,7 @@ https://earthengine.google.com
 
 ### Local
 http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
+
 https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
 
 ## Electrification Resources
