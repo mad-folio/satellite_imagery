@@ -1,5 +1,8 @@
-# Satellite Imagery
+# Satellite Imagery For The Energy Transition - Enabling Grid Decentralisation
 
+There is a need to extract data from satellite imagery to help detect grid infrastructure features to assist with the energy transition. This is a series of resources that helps with that challenge. 
+
+As more renewable energy is generated this will be done locally. It may be a centralised effort but the resource will need to be placed localley to take advantage of local environmental conditions. Further individuals may contribute to this effort by installing their own sources of power generation. There is a need to detect this to understand the grid requirements and to plan for furture development. 
 
 ## Data Resources
 ### Paid
@@ -25,6 +28,8 @@ http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 [Extracting Roads](https://github.com/avanetten/cresi)
 
 https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
+
+[Segmentation of roads](https://towardsdatascience.com/road-segmentation-727fb41c51af)
 
 ## Electrification Resources
 | Country      | Resource  |Comment| Link     |
