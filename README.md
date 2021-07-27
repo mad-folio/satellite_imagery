@@ -29,7 +29,7 @@ http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
 https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
 
-[Segmentation of roads](https://towardsdatascience.com/road-segmentation-727fb41c51af)
+[Segmentation of roads](https://towardsdatascience.com/road-segmentation-727fb41c51af), see also [https://github.com/Paulymorphous/skeyenet](github repo).
 
 ## Electrification Resources
 | Country      | Resource  |Comment| Link     |
