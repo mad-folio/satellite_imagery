@@ -7,6 +7,10 @@ As more renewable energy is generated this will be done locally. It may be a cen
 ## Interesting Repos
 https://github.com/R3ab/ttpla_dataset
 
+
+## How to generate masks
+https://towardsdatascience.com/generating-image-segmentation-masks-the-easy-way-dd4d3656dbd1
+
 ## Data Resources
 ### Paid
 https://apps.sentinel-hub.com/eo-browser/
