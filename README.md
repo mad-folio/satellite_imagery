@@ -4,6 +4,9 @@ There is a need to extract data from satellite imagery to help detect grid infra
 
 As more renewable energy is generated this will be done locally. It may be a centralised effort but the resource will need to be placed localley to take advantage of local environmental conditions. Further individuals may contribute to this effort by installing their own sources of power generation. There is a need to detect this to understand the grid requirements and to plan for furture development. 
 
+## Interesting Repos
+https://github.com/R3ab/ttpla_dataset
+
 ## Data Resources
 ### Paid
 https://apps.sentinel-hub.com/eo-browser/
