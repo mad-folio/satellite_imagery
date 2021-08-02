@@ -28,6 +28,7 @@ https://gbdxdocs.digitalglobe.com/docs/quickbird
 ## Data Processing Resources
 ### Platforms
 https://earthengine.google.com
+https://nbviewer.jupyter.org/github/descarteslabs/tutorials/blob/master/land_cover/land_cover_classification.ipynb
 
 ### Local
 http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
